@@ -1,6 +1,6 @@
 <?php
 
-//wap in php to sort
+//wap in php to sort by shiv om mishra
 
 $a = [10]; //count greater 1
 $a = [10,20]; //count == 2 Already Sorted ascending or descending
